@@ -1,0 +1,9 @@
+server:
+    port: 3000
+
+spring:
+    data:
+        mongodb:
+            database: ecommerce
+            uri: mongodb+srv://killerdroy:vietpham1701@db-cluster.ai3qmcj.mongodb.net/
+
